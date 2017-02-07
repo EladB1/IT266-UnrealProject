@@ -15,7 +15,7 @@
   * Mouse - Look around 
   
   
-  *Pickups
+  * Pickups
     * Green box - Health
     * Yellow box - Ammo
     * Gold box - Win
